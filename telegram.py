@@ -26,7 +26,7 @@ def handle(msg):
 		    bot.sendMessage(chat_id,'Led OFF')
             
             
-bot = telepot.Bot("277041505:AAGksFIYH4iM411uDu-9it7PZtieJSNAJc0")
+bot = telepot.Bot("XXXXXXXX:AAGksFIYH4iM411uDu-XXXXXXXX")
 
 
 bot.message_loop(handle)
