@@ -1,4 +1,4 @@
-# Light_control_using_telegram_Arduino
+# Light control using telegram Arduino
 
 This basic unit controls the led on and off using telegram (a greate substitute to whatsapp).
 In telegram we need to create a bot and send the commands using the bot to switch on/off the appliance. 
